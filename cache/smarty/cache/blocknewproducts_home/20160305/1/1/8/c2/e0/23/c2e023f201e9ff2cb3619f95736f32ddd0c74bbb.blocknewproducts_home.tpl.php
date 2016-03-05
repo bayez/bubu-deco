@@ -8,24 +8,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       1 => 1452095428,
       2 => 'file',
     ),
-    'f8da45ec969aad3216172737d5a820858b48b528' => 
+    'a21bc35774408d5cb95a2db250b4da9549050825' => 
     array (
-      0 => '/Users/brunnhildedayez/Documents/Bubu déco/SiteWeb/bubu-deco/themes/default-bootstrap/product-list.tpl',
-      1 => 1452095428,
+      0 => '/Users/brunnhildedayez/Documents/Bubu déco/SiteWeb/bubu-deco/themes/bubu-deco/product-list.tpl',
+      1 => 1457187125,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '179547377756dadc0d546829-61192077',
-  'variables' => 
-  array (
-    'new_products' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56dadc0e7678b0_16286416',
+  'unifunc' => 'content_56daea19bf8541_99798025',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56dadc0e7678b0_16286416')) {function content_56dadc0e7678b0_16286416($_smarty_tpl) {?>		
+<?php if ($_valid && !is_callable('content_56daea19bf8541_99798025')) {function content_56daea19bf8541_99798025($_smarty_tpl) {?>		
 									
 		
 	

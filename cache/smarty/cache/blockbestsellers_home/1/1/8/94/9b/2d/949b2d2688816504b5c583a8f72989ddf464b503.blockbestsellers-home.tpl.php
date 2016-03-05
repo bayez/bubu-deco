@@ -8,24 +8,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       1 => 1452095428,
       2 => 'file',
     ),
-    'f8da45ec969aad3216172737d5a820858b48b528' => 
+    'a21bc35774408d5cb95a2db250b4da9549050825' => 
     array (
-      0 => '/Users/brunnhildedayez/Documents/Bubu déco/SiteWeb/bubu-deco/themes/default-bootstrap/product-list.tpl',
-      1 => 1452095428,
+      0 => '/Users/brunnhildedayez/Documents/Bubu déco/SiteWeb/bubu-deco/themes/bubu-deco/product-list.tpl',
+      1 => 1457187125,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '33999604956dadc0eabdc76-26789495',
-  'variables' => 
-  array (
-    'best_sellers' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56dadc0ec052a4_59315583',
+  'unifunc' => 'content_56daea1a204641_92927551',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56dadc0ec052a4_59315583')) {function content_56dadc0ec052a4_59315583($_smarty_tpl) {?>		
+<?php if ($_valid && !is_callable('content_56daea1a204641_92927551')) {function content_56daea1a204641_92927551($_smarty_tpl) {?>		
 									
 		
 	
@@ -55,7 +51,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										32,40 €									</span>
 									<meta itemprop="priceCurrency" content="EUR" />
 																												<span class="unvisible">
-																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
 																		
 									
 															</div>
@@ -94,7 +90,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																														</div>
 																		<span class="availability">
 																	<span class=" label-success">
-										En stock									</span>
+										Disponible									</span>
 															</span>
 															</div>
 							</div><!-- .product-container> -->
@@ -123,7 +119,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										31,20 €									</span>
 									<meta itemprop="priceCurrency" content="EUR" />
 																												<span class="unvisible">
-																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
 																		
 									
 															</div>
@@ -162,7 +158,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																														</div>
 																		<span class="availability">
 																	<span class=" label-success">
-										En stock									</span>
+										Disponible									</span>
 															</span>
 															</div>
 							</div><!-- .product-container> -->
@@ -191,7 +187,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										19,81 €									</span>
 									<meta itemprop="priceCurrency" content="EUR" />
 																												<span class="unvisible">
-																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
 																		
 									
 															</div>
@@ -230,7 +226,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																														</div>
 																		<span class="availability">
 																	<span class=" label-success">
-										En stock									</span>
+										Disponible									</span>
 															</span>
 															</div>
 							</div><!-- .product-container> -->
@@ -264,7 +260,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										</span>
 																					<span class="price-percent-reduction">-20%</span>
 																																						<span class="unvisible">
-																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
 																		
 									
 															</div>
@@ -310,7 +306,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												</div>
 																		<span class="availability">
 																	<span class=" label-success">
-										En stock									</span>
+										Disponible									</span>
 															</span>
 															</div>
 							</div><!-- .product-container> -->
@@ -339,7 +335,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										36,60 €									</span>
 									<meta itemprop="priceCurrency" content="EUR" />
 																												<span class="unvisible">
-																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
 																		
 									
 															</div>
@@ -378,7 +374,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																														</div>
 																		<span class="availability">
 																	<span class=" label-success">
-										En stock									</span>
+										Disponible									</span>
 															</span>
 															</div>
 							</div><!-- .product-container> -->
@@ -412,7 +408,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										</span>
 																					<span class="price-percent-reduction">-5%</span>
 																																						<span class="unvisible">
-																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
+																								<link itemprop="availability" href="https://schema.org/InStock" />Disponible																					</span>
 																		
 									
 															</div>
@@ -458,7 +454,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												</div>
 																		<span class="availability">
 																	<span class=" label-success">
-										En stock									</span>
+										Disponible									</span>
 															</span>
 															</div>
 							</div><!-- .product-container> -->

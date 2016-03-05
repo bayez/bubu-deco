@@ -10,10 +10,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '149328893056dadc0d3e4a87-52250795',
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56dadc0d3f5906_05163223',
+  'unifunc' => 'content_56daea1885a2d6_33520730',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56dadc0d3f5906_05163223')) {function content_56dadc0d3f5906_05163223($_smarty_tpl) {?><li><a data-toggle="tab" href="#blocknewproducts" class="blocknewproducts">Nouveautés</a></li>
+<?php if ($_valid && !is_callable('content_56daea1885a2d6_33520730')) {function content_56daea1885a2d6_33520730($_smarty_tpl) {?><li><a data-toggle="tab" href="#blocknewproducts" class="blocknewproducts">Nouveautés</a></li>
 <?php }} ?>
