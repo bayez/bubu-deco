@@ -13,12 +13,64 @@
 	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prestashop.com/blog/fr</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Mar 2016 15:59:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Mar 2016 11:45:25 +0000</lastBuildDate>
 	<language>fr-FR</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.8.1</generator>
 	<item>
+		<title>10 astuces pour booster la productivité d&#8217;une équipe virtuelle</title>
+		<link>https://www.prestashop.com/blog/fr/10-astuces-booster-productivite-dune-equipe-virtuelle/</link>
+		<comments>https://www.prestashop.com/blog/fr/10-astuces-booster-productivite-dune-equipe-virtuelle/#comments</comments>
+		<pubDate>Mon, 21 Mar 2016 14:27:49 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19804</guid>
+		<description><![CDATA[<p>D’ici 2017, les ventes e-commerce aux États-Unis devraient bondir et atteindre 434,2 milliards de dollars, alors qu&#8217;elles s&#8217;élevaient à seulement 225,5 milliards de dollars en 2012. Le secteur est donc en pleine expansion. Les entrepreneurs souhaitant tirer leur épingle du jeu ne peuvent pas être sur tous les fronts. Mise à jour des descriptions de [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/10-astuces-booster-productivite-dune-equipe-virtuelle/">10 astuces pour booster la productivité d&rsquo;une équipe virtuelle</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>D’ici 2017, les ventes e-commerce aux États-Unis devraient bondir et <a href="http://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/" target="_blank">atteindre 434,2 milliards de dollars</a>, alors qu&rsquo;elles s&rsquo;élevaient à seulement 225,5 milliards de dollars en 2012. Le secteur est donc en pleine expansion.</p>
+<p>Les entrepreneurs souhaitant tirer leur épingle du jeu ne peuvent pas être sur tous les fronts. Mise à jour des descriptions de produits, exportation des données, gestion des inventaires ou encore administration des pages sur les réseaux sociaux : pour passer au niveau supérieur, il faut déléguer ces tâches.</p>
+<p>Une équipe virtuelle peut vous décharger de certaines activités quotidiennes trop chronophages. N’allez pas pour autant imaginer que vos assistants virtuels (AV) n’auront pas besoin d’être formés et encadrés.</p>
+<p>Voici 10 astuces et outils pour tirer le meilleur parti de votre équipe virtuelle.<br />
+<span id="more-19804"></span></p>
+<h4 style="color: #e78199">1. Que devez-vous déléguer, et comment ?</h4>
+<p>Identifiez vos points forts et vos besoins. Quel que soit l’effectif de votre équipe e-commerce, il est essentiel de bien gérer son temps et de connaître les compétences de chacun. Déléguez ainsi les tâches selon vos besoins, tout en choisissant judicieusement la personne qui les accomplira le mieux.</p>
+<h4 style="color: #e78199">2. Cultivez un esprit d’équipe et d’unité</h4>
+<p>Adopter un tel état d’esprit est chose facile lorsqu’on se retrouve tous les jours au bureau ; ça l’est beaucoup moins avec une équipe éparpillée dans un ou plusieurs pays. Si les décalages horaires doivent être pris en compte, il est également important d’offrir à vos employés un espace où ils pourront se réunir, comme s&rsquo;ils discutaient à la machine à café. Pour ce faire, vous disposez de différentes solutions : créer une conversation de groupe sur Skype, un groupe privé sur Facebook ou encore votre propre réseau social interne grâce à des outils comme <a href="https://podio.com/site/en" target="_blank">Podio</a>.</p>
+<p>Les plateformes telles que Skype, Google Hangouts ou encore <a href="http://www.gotomeeting.com/" target="_blank">GoToMeeting</a> vous permettent d&rsquo;organiser des réunions virtuelles. Compte tenu du décalage horaire, il est possible que tous vos employés ne puissent pas participer à ces événements en ligne. N’oubliez donc pas de les enregistrer : ils pourront ainsi être visionnés ultérieurement.</p>
+<h4 style="color: #e78199">3. Créez des droits d’accès pour vos AV</h4>
+<p>Avec PrestaShop, il est facile de <a href="http://doc.prestashop.com/pages/viewpage.action?pageId=20840923" target="_blank">configurer des droits d’accès à votre boutique</a> pour chacun des employés de votre équipe virtuelle. Vous possédez un catalogue de produits important et avez besoin de le mettre à jour ? En créant un compte pour chacun de vos employés, vous avez la possibilité de contrôler et de gérer le contenu auquel ils ont accès. Modulez ainsi leur charge de travail et leur niveau d’accès en fonction de l&rsquo;évolution de leurs compétences.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-19812" alt="adm012-permissions-en2-161" src="https://www.prestashop.com/blog/fr/files/2016/03/adm012-permissions-en2-161-1024x482.png" width="700" height="329" /></p>
+<h4 style="color: #e78199">4. Protégez vos données Cloud</h4>
+<p>De nos jours, tout passe par le Cloud. Même PrestaShop. Le contrôle des niveaux d’accès est donc la première étape essentielle de la gestion de votre boutique en ligne. Mais qu’en est-il des autres logiciels Cloud auxquels vos AV ont accès à partir de leurs appareils mobiles ?</p>
+<p>Microsoft SCCM vous permet de gérer les niveaux d’accès de votre équipe virtuelle sur toutes vos applications Cloud disponibles sur appareil mobile. Si vous n’avez pas l&rsquo;habitude d’utiliser de tels systèmes pour votre boutique en ligne, sachez que des <a href="https://www.cbtnuggets.com/it-training/microsoft-sccm-70-243-r2" target="_blank">tutoriels simples et pratiques sur Microsoft SCCM</a> sont à votre disposition. Un seul outil vous permet ainsi de tout gérer : PC, Mac, serveurs ou encore appareils mobiles aux systèmes d’exploitation divers (Windows®, iOS®, Android™).</p>
+<h4 style="color: #e78199">5. Mettez en place un processus d’intégration et de formation</h4>
+<p>Créez toute une série de vidéos de formation sur les différentes tâches possibles à effectuer. Préparez en avance certains documents pour accueillir vos nouvelles recrues : formulaires W-8BEN, contrats, accords de confidentialité, etc. Gérez numériquement la signature de cette documentation grâce à des plateformes comme <a href="https://www.docusign.com/" target="_blank">DocuSign</a>.</p>
+<h4 style="color: #e78199">6. Coordonnez la gestion du temps et des salaires</h4>
+<p>Des solutions comme Tick vous permettent de <a href="https://www.tickspot.com/project-budget-tracking" target="_blank">gérer le budget et le planning de votre équipe</a>. Et si vous souhaitez vérifier que tout le monde travaille sérieusement, utilisez un outil tel que <a href="https://hubstaff.com/" target="_blank">Hubstaff</a>. Il vous permet d’ajouter plusieurs employés et projets ainsi que de gérer les rémunérations à partir du système, facilitant les choses pour tout le monde.</p>
+<p><img class="aligncenter size-full wp-image-21266" alt="img02" src="https://www.prestashop.com/blog/fr/files/2016/03/img02.png" width="490" height="290" /></p>
+<p class="text-center"><em style="font-size: 12px">Capture d’écran — Tick</em></p>
+<h4 style="color: #e78199">7. Récompensez vos employés</h4>
+<p>Vous n’avez sûrement pas les moyens d’offrir une gamme complète d’avantages sociaux comme Google ou Facebook, mais ne lésinez pas sur les récompenses, gage de reconnaissance du travail fourni par vos employés. En effet, une <a href="http://www.globoforce.com/resources/research-reports/shrmgloboforce-fall-2012-report-the-business-impact-of-employee-recognition/" target="_blank">étude datant de 2012</a> montre que 41 % des entreprises ayant mis en place un programme de reconnaissance Peer-to-peer obtiennent une meilleure satisfaction client : des employés heureux font des clients heureux. On observe également une baisse moyenne de 23,4 % du taux de roulement.</p>
+<p>Ainsi, que vous décidiez d’offrir des primes, des cartes cadeaux, ou même des biens matériels tels que des tablettes, ordinateurs ou consoles de jeux, récompenser le travail de vos employés sera de toute évidence bénéfique à votre activité.</p>
+<h4 style="color: #e78199">8. Sensibilisez votre équipe à la question de la fraude</h4>
+<p>Lorsque l’on <a href="https://www.prestashop.com/blog/fr/comment-bien-gerer-son-site-e-commerce-les-check-lists-indispensables/">gère une boutique</a>, on est tôt ou tard, d’une manière ou d’une autre, confronté à des tentatives de fraude. Formez votre équipe et sensibilisez-la aux risques des transactions frauduleuses. Par ailleurs, sachez que pour les hackers, les petites entreprises sont les proies les plus faciles. Des employés alertes constitueront un premier rempart et vous aideront à éviter ce genre de problèmes, préservant ainsi votre temps.</p>
+<h4 style="color: #e78199">9. Soyez disponible</h4>
+<p>Faites en sorte que votre équipe puisse vous joindre lorsqu’elle en a besoin. Une parfaite disponibilité est gage d’une bonne communication au sein de votre équipe. Soyez donc présent pour répondre aux questions de vos collaborateurs ou pour les aider de manière générale. Si votre équipe sait qu’elle peut compter sur vous, elle n&rsquo;hésitera pas à vous avertir en cas de besoin et les problèmes seront plus faciles à gérer puisqu&rsquo;ils seront traités à temps.</p>
+<h4 style="color: #e78199">10. Pensez au renouvellement de votre personnel</h4>
+<p>Si vous avez déjà recruté l’équipe de vos rêves, c’est parfait. Pour autant, ne vous attendez pas à ce qu’elle perdure dans le temps. En effet, les employés de votre équipe virtuelle, qu’ils travaillent à temps partiel ou complet, sont susceptibles de tomber sur des offres d’emploi proposant des opportunités d’évolution plus intéressantes. Soyez donc prêt à gérer ce genre d’éventualité. Si vous trouvez que vos effectifs ne sont pas assez performants, donnez-leur l’opportunité de montrer tout ce dont ils sont capables avant de les remplacer.</p>
+<p>Sachez également où trouver de nouvelles perles rares, que vous recrutiez des travailleurs indépendants ou fixes. Pour ce faire, LinkedIn est un excellent outil, mais vous avez également la possibilité de publier vos offres d’emploi sur Craiglist ou encore sur des sites spécialisés dans les annonces pour travailleurs indépendants, tels que Guru.</p>
+<p>La gestion d’une équipe virtuelle est difficile, en particulier dans le secteur du e-commerce. Fort heureusement, même si votre budget est serré, il existe pléthores d’outils à prix abordables pour vous aider.</p>
+<hr align="left" width="20%" />
+<p>Titulaire d’un MBA, Darren DeMatas a acquis au fil des ans une solide expérience dans le marketing Web. Pour plus d’informations sur l’e-commerce, consultez <a href="https://selfstartr.com/" target="_blank">Selfstartr</a>. Suivez Darren DeMatas sur <a href="https://twitter.com/DarrenDeMatas" target="_blank">Twitter</a> et <a href="https://www.linkedin.com/in/internetmarketingmba" target="_blank">LinkedIn</a>.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/10-astuces-booster-productivite-dune-equipe-virtuelle/">10 astuces pour booster la productivité d&rsquo;une équipe virtuelle</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/10-astuces-booster-productivite-dune-equipe-virtuelle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>La communauté PrestaShop compte aujourd&#8217;hui 1 million de membres ! #WeAre1Million</title>
 		<link>https://www.prestashop.com/blog/fr/communaute-prestashop-compte-aujourdhui-1-million-membres/</link>
 		<comments>https://www.prestashop.com/blog/fr/communaute-prestashop-compte-aujourdhui-1-million-membres/#comments</comments>
@@ -59,7 +111,7 @@
 		<comments>https://www.prestashop.com/blog/fr/marketplace-americaine-jet-debarque-addons/#comments</comments>
 		<pubDate>Thu, 17 Mar 2016 14:59:26 +0000</pubDate>
 		<dc:creator><![CDATA[Margaux Choplin]]></dc:creator>
-				<category><![CDATA[Partenaires PrestaShop]]></category>
+				<category><![CDATA[Conseils E-commerce]]></category>
 
 		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19786</guid>
 		<description><![CDATA[<p>Uniquement accessible au marché nord-américain pour le moment, Jet est LA marketplace qui monte et qui a pour ambition de faire de l’ombre à Amazon. Le module Jet débarque donc sur Addons uniquement pour les marchands américains pour le moment, mais ça ne saurait tarder pour les autres ! Alors tenez-vous prêts… Pour booster rapidement [...]</p>
@@ -79,6 +131,65 @@ Alors tenez-vous prêts et profitez-en au plus vite !</p>
 <p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/marketplace-americaine-jet-debarque-addons/">La marketplace américaine Jet débarque sur Addons !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/marketplace-americaine-jet-debarque-addons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment mettre en place une stratégie de marketing vidéo pour votre site e-commerce</title>
+		<link>https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/#comments</comments>
+		<pubDate>Thu, 17 Mar 2016 11:55:40 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19797</guid>
+		<description><![CDATA[<p>Si une image vaut mille mots, une vidéo produit vaut bien plus en matière d&#8217;engagement client et de conversions. En effet, 96 % des consommateurs apprécient les contenus vidéo lorsqu&#8217;ils effectuent des achats en ligne. Les e-commerçants affichant des vidéos produit sur leurs sites observent ainsi une augmentation des taux de conversion jusqu&#8217;à 85 %. [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/">Comment mettre en place une stratégie de marketing vidéo pour votre site e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si une image vaut mille mots, une vidéo produit vaut bien plus en matière d&rsquo;engagement client et de conversions. En effet, <a href="http://www.reelseo.com/consumers-purchase-video/" target="_blank">96 % des consommateurs</a> apprécient les contenus vidéo lorsqu&rsquo;ils effectuent des achats en ligne. Les e-commerçants affichant des vidéos produit sur leurs sites observent ainsi une augmentation des taux de conversion <a href="http://blog.crazyegg.com/2015/03/05/videos-boost-conversion-rates/" target="_blank">jusqu&rsquo;à 85 %</a>. Parmi les autres <a href="http://blog.goodvid.io/5-benefits-of-having-product-videos-on-ecommerce-site" target="_blank">avantages des vidéos pour l&rsquo;e-commerce</a> figurent une durée de session prolongée, un plus grand nombre de pages visitées, des taux de conversion plus élevés et un trafic accru. </p>
+<p>Passons en revue les points à prendre en considération pour le développement d&rsquo;une stratégie de marketing vidéo pour votre entreprise.<br />
+<span id="more-19797"></span></p>
+<h2 style="color:#474474">Définissez une stratégie de marketing vidéo adaptée à vos besoins</h2>
+<p>Avant de vous intéresser à l&rsquo;aspect créatif du marketing vidéo, trouvez d&rsquo;abord la <a href="http://blog.goodvid.io/5-steps-to-create-a-video-strategy-for-your-online-store/" target="_blank">stratégie vidéo</a> qu&rsquo;il vous faut. Quels sont les objectifs que vous souhaitez atteindre en proposant des vidéos sur votre site ? Quelles sont les ressources dont vous disposez en matière de temps, de budget et de compétences ? Le rôle attendu des vidéos sur votre site et l&rsquo;investissement que vous êtes prêt à consentir dans le marketing vidéo guideront votre stratégie. Voici les trois principales approches qui s&rsquo;offrent à vous :</p>
+<h4 style="color:#474474">1. Réalisez vos propres vidéos</h4>
+<p>La création de vos propres vidéos est la stratégie qui exige le plus de ressources, mais c&rsquo;est aussi celle qui permet le plus à votre marque de se démarquer. C&rsquo;est une stratégie adaptée si vous commercialisez votre propre marque de produits, car vous pouvez ainsi promouvoir l&rsquo;enseigne, les valeurs et la vision de votre entreprise.</p>
+<h4 style="color:#474474">2. Utilisez les vidéos des marques, des experts et des utilisateurss</h4>
+<p>Tous les e-commerçants ne souhaitent pas créer leurs propres vidéos, ce qui n&rsquo;est pas un problème. Si vous disposez de peu de temps et de ressources ou n&rsquo;êtes pas à l&rsquo;aise devant une caméra, vous pouvez tirer profit des vidéos existantes concernant les produits et les marques que vous commercialisez. De nombreuses <a href="https://goodvid.io/video-gallery" target="_blank">vidéos réalisées par des marques, des experts et des utilisateurs</a> sont disponibles sur YouTube ainsi que sur d&rsquo;autres plateformes de partage de vidéos et peuvent être partagées gratuitement sur les sites e-commerce. C&rsquo;est une excellente manière d&rsquo;évaluer la réaction des clients aux vidéos sur votre site sans investissement majeur dans la production de vidéos, en particulier si vous êtes novice en la matière.</p>
+<h4 style="color:#474474">3. Combinez vos propres vidéos avec une sélection d&rsquo;autres vidéos</h4>
+<p>Enfin, vous pouvez également tirer le meilleur parti des deux approches précédentes et proposer à vos clients un mélange de vos propres vidéos et de vidéos sélectionnées à partir d&rsquo;autres sources. C&rsquo;est un excellent moyen de diversifier vos contenus vidéo, de maintenir l&rsquo;engagement des acheteurs et de mettre en avant votre expertise produit. </p>
+<h2 style="color:#474474">Sélectionnez des vidéos appropriées</h2>
+<p>Une fois que vous avez défini la stratégie vidéo adaptée aux besoins de votre entreprise, réfléchissez aux contenus vidéo que vos clients apprécieront le plus. Les vidéos doivent susciter l&rsquo;intérêt des acheteurs potentiels pour les produits et les inciter à cliquer sur le bouton « Ajouter au panier ». Voici les vidéos les plus adaptées à l&rsquo;e-commerce :</p>
+<ul style="padding-left: 30px">
+<li><strong>Vidéos de présentation des produits :</strong> elles permettent aux acheteurs de connaître les caractéristiques et les avantages principaux du produit et de se rendre compte de ses performances. Ces vidéos forgent les attentes client sur le produit avant l&rsquo;achat et aident à éviter les retours produit.</li>
+<li><strong>Tutoriels :</strong> les vidéos didactiques montrant <a href="http://blog.goodvid.io/how-online-retailers-can-leverage-how-to-video-content/" target="_blank">l&rsquo;assemblage, l&rsquo;utilisation et l&rsquo;entretien des produits</a> sont particulièrement utiles pour les produits complexes tels que les appareils électroniques grand public, l&rsquo;électroménager, les produits cosmétiques et les produits pour bébés.</li>
+<li><strong>Vidéos de déballage :</strong> avec une vidéo montrant le packaging du produit et son déballage, les clients peuvent mieux visualiser leurs achats. Ces vidéos réduisent l&rsquo;anxiété des consommateurs et suscitent leur intérêt pour le produit.</li>
+</ul>
+<p>Lorsque vous sélectionnez des vidéos pour votre site, réfléchissez aux questions que les acheteurs potentiels sont susceptibles de se poser à propos de vos produits et répondez-y par une vidéo. Comme les vidéos jouent un rôle de vendeur virtuel dans votre boutique en ligne, elles doivent rassurer les clients sur leurs achats. </p>
+<h2 style="color:#474474">Meilleures pratiques pour la mise en place de vidéos produit sur un site e-commerce</h2>
+<p>Des vidéos appropriées peuvent améliorer considérablement l&rsquo;engagement client et les taux de conversion des sites e-commerce. Voici quelques conseils pratiques pour les e-commerçants qui souhaitent développer une stratégie de marketing vidéo :</p>
+<ol>
+<li><strong>Trouvez l&rsquo;inspiration.</strong> Cherchez sur YouTube des vidéos concernant les produits et les marques que vous commercialisez ou des produits de la même catégorie. Cherchez des vidéos réalisées par les marques, les utilisateurs, les experts et les commerçants. Notez les informations fournies, le style et la durée de ces vidéos, ainsi que les incitations à l&rsquo;action. Inspirez-vous de ces données pour la réalisation de vos propres vidéos ou pour la sélection des vidéos à afficher sur votre site.</li>
+<li><strong>Commencez par ajouter des vidéos pour vos produits les plus rentables.</strong> Pour vos premiers pas dans le marketing vidéo, commencez par vos meilleures ventes ou pages produit les plus visitées. Vous pourrez ainsi collecter rapidement des données sur les effets des vidéos sur l&rsquo;engagement client et les taux de conversion.</li>
+<li><strong>Placez les vidéos à des endroits stratégiques pour la conversion.</strong> Si vous souhaitez évaluer l&rsquo;influence des vidéos sur vos taux de conversion avec le bouton « Ajouter au panier », ajoutez les vidéos directement aux pages produit et non aux pages de catégories, afin de maximiser leur impact sur l&rsquo;intention d&rsquo;achat. </li>
+<li><strong>Optimisez la visibilité des vidéos.</strong> Placez les vidéos à côté des photos et des descriptions produit. Cela permet de capter immédiatement l&rsquo;attention des acheteurs et de susciter leur intérêt pour le contenu. Essayez si possible de placer les vidéos au-dessus de la ligne de flottaison et non en bas de page, où elles ne seraient pas assez visibles.</li>
+<li><strong>Ajoutez plusieurs vidéos aux pages produit.</strong> Vos pages peuvent comporter chacune plusieurs photos produit, alors pourquoi pas plusieurs vidéos ? Associez différents types de vidéos pour maximiser l&rsquo;engagement client. Combinez vos propres vidéos avec des vidéos réalisées par des utilisateurs, des témoignages client et des présentations de produits afin d&rsquo;offrir une expérience authentique à vos clients. Testez différentes options de <a href="http://blog.goodvid.io/5-ecommerce-video-trends-for-2016/" target="_blank">galerie vidéo</a> pour trouver la bonne formule.</li>
+<li><strong>Assurez-vous que les vidéos s&rsquo;affichent correctement sur les appareils mobiles.</strong> Dans le monde mobile actuel, les consommateurs exigent une compatibilité totale de votre boutique en ligne, quel que soit l&rsquo;appareil qu&rsquo;ils utilisent pour y accéder. Pensez à appliquer le responsive design aux vidéos pour une résolution optimale sur les appareils mobiles.</li>
+</ol>
+<h2 style="color:#474474">Que faire à présent ?</h2>
+<p>Une fois votre stratégie de marketing vidéo définie dans les grandes lignes, testez les vidéos sur votre site e-commerce. Voici quelques points à vérifier :</p>
+<ul style="padding-left: 30px">
+<li>le comportement des acheteurs potentiels sur les pages avec ou sans vidéo ;</li>
+<li>le taux de visualisation des vidéos ;</li>
+<li>la durée de visualisation des vidéos ;</li>
+<li>l&rsquo;impact des vidéos sur la durée des sessions et le nombre de pages visitées ;</li>
+<li>les taux de conversion des pages avec ou sans vidéo.</li>
+</ul>
+<p>Ces informations sur le comportement des acheteurs potentiels vous seront utiles pour choisir l&rsquo;approche qu&rsquo;il vous faut. Les vidéos sont un atout considérable pour votre stratégie marketing. Perfectionnez votre stratégie vidéo en testant différentes solutions, pour proposer à vos acheteurs une expérience client inégalée et des vidéos captivantes !  </p>
+<h2 style="color:#474474">À propos de l&rsquo;auteur</h2>
+<p><img class="alignleft size-full wp-image-21235" alt="miljana-mitic" src="https://www.prestashop.com/blog/fr/files/2016/03/miljana-mitic.png" width="100" height="100" /></p>
+<p>Miljana Mitic est responsable Content Marketing chez <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, une solution SaaS permettant aux e-commerçants de proposer les meilleurs vidéos produit des réseaux sociaux sur leur site. Miljana est titulaire d&rsquo;un doctorat en marketing via réseaux sociaux et écrit des articles expliquant comment tirer le meilleur parti des vidéos produit pour l&rsquo;e-commerce. Elle aime découvrir de nouveaux restaurants, lire, jouer avec les chiens et regarder des vidéos « haul » sur YouTube dans lesquelles les internautes montrent leurs derniers achats. </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/">Comment mettre en place une stratégie de marketing vidéo pour votre site e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
@@ -376,91 +487,6 @@ De l’ergonomie à l’AB testing, du eye-tracking à la reconnaissance facia
 <p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/participez-au-nord-conversion-day-levenement-dedie-conversion-loptimisation-sites-web/">Participez au Nord Conversion Day : l’événement dédié à la conversion</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/participez-au-nord-conversion-day-levenement-dedie-conversion-loptimisation-sites-web/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Etude de cas: Développer son activité avec les Réseaux Sociaux</title>
-		<link>https://www.prestashop.com/blog/fr/etude-cas-developper-activite-les-reseaux-sociaux/</link>
-		<comments>https://www.prestashop.com/blog/fr/etude-cas-developper-activite-les-reseaux-sociaux/#comments</comments>
-		<pubDate>Mon, 15 Feb 2016 08:30:05 +0000</pubDate>
-		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
-				<category><![CDATA[Success Story]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19703</guid>
-		<description><![CDATA[<p>Le temps est précieux pour les e-commerçants, c&#8217;est pourquoi ils sont souvent réticents à investir les réseaux sociaux. Nous avons échangé sur ce sujet avec Philippe Bertron, Dirigeant et Fondateur du site Etoffe.com. Il nous livre aujourd&#8217;hui son experience et ses conseils pour aider les e-commerçants à tirer parti des réseaux sociaux. A quel point [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/etude-cas-developper-activite-les-reseaux-sociaux/">Etude de cas: Développer son activité avec les Réseaux Sociaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Le temps est précieux pour les e-commerçants, c&rsquo;est pourquoi ils sont souvent réticents à investir les réseaux sociaux. Nous avons échangé sur ce sujet avec <strong>Philippe Bertron</strong>, Dirigeant et Fondateur du site <a href="http://www.etoffe.com/" target="_blank">Etoffe.com</a>. Il nous livre aujourd&rsquo;hui son experience et ses conseils pour aider les e-commerçants à tirer parti des réseaux sociaux.<br />
-<span id="more-19703"></span> </p>
-<h2 style="color:#509195">A quel point les réseaux sociaux sont-ils importants pour votre activité ?</h2>
-<p><a href="http://www.etoffe.com/" target="_blank">Etoffe.com</a> est un site de vente en ligne de tissus et de papiers peints de luxe. N&rsquo;ayant pas de magasin physique, il était important pour nous d&rsquo;offrir un terrain de dialogue et d&rsquo;échange privilégié à nos clients. De plus, la plupart de nos réseaux sociaux nous servent aujourd&rsquo;hui de vitrine, pour communiquer sur les nouvelles collections, les opérations de promotions et les sujets liés à notre secteur (expositions, salons…). </p>
-<p>Notre métier se prête à merveille au jeu du contenu, puisque nous avons la chance de travailler avec des marques qui produisent de très beaux visuels. C’est donc idéal pour y partager ces supports, et fédérer autour de notre contenu, une communauté pointue d&rsquo;amateurs de déco haut-de-gamme. </p>
-<p>Notre stratégie social media est pleinement axée sur le branding, l&rsquo;image et l&rsquo;éditorial. Nous ne sommes que rarement dans une logique de mise en avant purement commerciale. </p>
-<p>Enfin, nous pensons qu&rsquo;avoir une communication riche et régulière auprès d&rsquo;un nombre important de fans ou followers est un élément de réassurance supplémentaire faisant preuve de notre légitimité dans notre secteur.</p>
-<h2 style="color:#509195">Quels réseaux sociaux utilisez-vous ? Pourquoi ?</h2>
-<p><strong>Facebook</strong> est notre plus importante communauté avec bientôt 20 000 fans. C&rsquo;est un réseau social pionnier qui permet de nombreuses alternatives en termes de ciblage. Nous utilisons par exemple le ciblage par intérêts, mais aussi le ciblage des profils Facebook de nos abonnés newsletters, grâce au système d&rsquo;import de notre base email sur la plateforme. Cela nous permet de leur partager les nouveautés et actualités de nos marques, en nous appuyant sur des visuels forts. La viralité de certains produits ou motifs est un bon indicateur de tendances et nous permet de tester et identifier de futurs best-sellers !</p>
-<p>Nous sommes également présents sur <strong>Instagram</strong> et <strong>Pinterest</strong>, convaincus que les réseaux d&rsquo;images sont absolument incontournables lorsqu&rsquo;on a la chance comme nous d&rsquo;avoir une bibliothèque de visuels immensément riche. Montrer les motifs et les matières est notre première préoccupation.</p>
-<p>Nous utilisons quotidiennement <strong>Scoop.it</strong>, un réseau social de veille et curation encore trop confidentiel mais qui réserve de très belles surprises en termes de ventes et de trafic. Cet outil permet d&rsquo;agréger toutes les actualités liées à notre secteur d&rsquo;activité et nous garantit un trafic extrêmement qualifié. Scoop.it nous permet de nous positionner en tant qu&rsquo;experts dans le secteur du textile, du papier peint et du monde de la décoration haut-de-gamme.</p>
-<p>Nous avons une utilisation plus mineure de <strong>Twitter</strong>, qui nous permet principalement de relayer certaines actualités du monde des éditeurs, ainsi que les articles partagés sur notre Scoop.it.</p>
-<h2 style="color:#509195">Comment gérez-vous ces chaînes de réseaux sociaux ?</h2>
-<p>Nous avons un planning différent pour chaque réseau social. Nous réalisons deux posts hebdomadaires sur Facebook, car nous souhaitons proposer un contenu de grande qualité à chaque prise de parole sur ce réseau social où nous avons le plus de fans. </p>
-<p>Notre Scoop.it est alimenté une fois par jour. Nous rendons ainsi publique la veille quotidienne effectuée sur différents sites de notre secteur.</p>
-<p>Nous utilisons Twitter comme un relais de notre contenu Facebook et Scoop.it. Nous retweetons aussi les éditeurs avec qui nous travaillons.</p>
-<p>Nous postons une fois par jour sur Instagram, en début d&rsquo;après-midi. Notre site nous fournit un très beau vivier parmi lequel piocher de belles images, de beaux motifs.</p>
-<p>Enfin, Pinterest est alimenté quotidiennement également, de nos nouvelles collections ou de visuels marquants.</p>
-<h2 style="color:#509195">D’où viennent les inspirations de contenu que vous publiez ?</h2>
-<p>Nous tirons nos idées des petites merveilles que nous proposons sur notre site, des tendances en décoration, des découvertes que les membres de l&rsquo;équipe font dans les salons ou les expositions. Nous tirons aussi des leçons des réactions de notre communauté à nos prises de parole et apprenons peu à peu à savoir ce qui plaît à nos abonnés. En effet, ce qui sera viral sur les réseaux sociaux n&rsquo;est pas nécessairement ce qui est le plus commercial. Il faut apprendre à jongler entre ce qui plaît parce que c&rsquo;est spectaculaire, et ce qui se vendra vraiment !</p>
-<h2 style="color:#509195">Quels outils utilisez-vous et recommandez-vous ?</h2>
-<p>Pour les réseaux sociaux, nous utilisons beaucoup d&rsquo;outils de programmation des publications : <strong>Buffer</strong> pour Twitter, l&rsquo;outil de planification des publications disponible sur Facebook ou <strong>Latergram</strong> pour Instagram. Les insights Facebook et Twitter sont assez complets pour être utilisables.<br />
-En revanche, pour suivre les performances de notre compte Instagram, nous devons utiliser un Analytics bien distinct et nous avons choisi <strong>Iconosquare</strong> pour le moment. </p>
-<h2 style="color:#509195">Combien avez-vous investi dans les réseaux sociaux ?</h2>
-<p>Nous dépensons assez peu sur les réseaux sociaux, mais nous y consacrons beaucoup de temps. Nous sponsorisons régulièrement nos publications Facebook et nous créons souvent des campagnes d&rsquo;acquisition via Facebook Ads (qui propose également de diffuser ces publicités sur Instagram depuis peu). Pour autant, les réseaux sociaux représentent moins de 5% nos dépenses marketing, et nous préférons allouer du budget à des canaux à fort ROI comme Google Adwords.</p>
-<h2 style="color:#509195">Quels conseils donneriez-vous aux e-commerçants souhaitant être présents sur les réseaux sociaux ?</h2>
-<p>Sur les réseaux sociaux, il faut être: percutant, original et qualitatif. A l&rsquo;heure où les utilisateurs sont noyés sous une masse d&rsquo;informations issues de marques différentes, il faut savoir capter leur intérêt en cultivant un ton, un contenu et une ligne éditoriale uniques. Enfin, le caractère d&rsquo;exclusivité est souvent la clé d&rsquo;un follower convaincu !</p>
-<p>Il faut apporter beaucoup de soin à la portée visuelle de la publication. La règle est désormais bien connue : pas de post sans image ! Nous avons la chance de disposer d’énormément de contenu visuel. Quand ce n&rsquo;est pas le cas, il faut savoir faire preuve de créativité afin d&rsquo;accompagner ses mots d&rsquo;un support visuel fort et accrocheur.</p>
-<p>À travers les réseaux sociaux, il s&rsquo;agit de proposer une expérience à notre communauté, partager des informations exclusives, inédites, étonnantes, mais aussi percutantes et en cohérence avec notre activité. Les réseaux sociaux sont un espace de loisirs pour les utilisateurs, mais aussi d&rsquo;information. Il faut veiller à conserver une présence agréable et qualitative sur ce levier.</p>
-<p>Enfin, et comme souvent dans l&rsquo;univers du web, il ne faut pas hésiter à tester ! Une bonne maîtrise du ciblage passe par des dizaines de tests avant de trouver la bonne recette. Chaque audience est propre au secteur et il faut apprendre à apprivoiser la sienne.</p>
-<hr width="20%" align="left">
-<p>Prêts à lancer votre campagne sur les réseaux sociaux pour votre site e-commerce? Pour en savoir plus consultez l&rsquo;article d&rsquo;Hanna Oeljeschlaeger expert HootSuite sur: <a href="https://www.prestashop.com/blog/fr/boostez-boutique-en-ligne-les-reseaux-sociaux-partie-1-2/">Comment booster votre boutique en ligne avec les réseaux sociaux</a>. </p>
-<p>Vous n’avez pas encore votre boutique en ligne? Commencez dès aujourd’hui avec <a href="http://www.prestashop.com/">PrestaShop</a>. </p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/etude-cas-developper-activite-les-reseaux-sociaux/">Etude de cas: Développer son activité avec les Réseaux Sociaux</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/etude-cas-developper-activite-les-reseaux-sociaux/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>E-commerçants : introduction au reciblage ou retargeting</title>
-		<link>https://www.prestashop.com/blog/fr/e-commercants-introduction-au-reciblage-retargeting/</link>
-		<comments>https://www.prestashop.com/blog/fr/e-commercants-introduction-au-reciblage-retargeting/#comments</comments>
-		<pubDate>Mon, 08 Feb 2016 08:30:08 +0000</pubDate>
-		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19693</guid>
-		<description><![CDATA[<p>Vous avez certainement déjà vécu une expérience similaire : vous parcourez une boutique en ligne, mais vous ne vous sentez pas prêt à acheter quelque chose et retournez donc lire quelques articles sur BuzzFeed. Pendant la navigation, vous vous rendez compte que les produits que vous venez de consulter apparaissent de part et d&#8217;autre des [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/e-commercants-introduction-au-reciblage-retargeting/">E-commerçants : introduction au reciblage ou retargeting</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Vous avez certainement déjà vécu une expérience similaire : vous parcourez une boutique en ligne, mais vous ne vous sentez pas prêt à acheter quelque chose et retournez donc lire quelques articles sur BuzzFeed. Pendant la navigation, vous vous rendez compte que les produits que vous venez de consulter apparaissent de part et d&rsquo;autre des pages. Comment le site peut-il savoir que vous êtes intéressé par ces articles en particulier ? En tant qu&rsquo;e-commerçant, vous vous êtes probablement déjà demandé si cette approche pourrait fonctionner avec <em>votre</em> <a href="http://prestashop.com/">boutique</a> ? La réponse est oui ! Aujourd&rsquo;hui, nous invitons Garret Gan, du site de marketing numérique <a href="http://www.thalamus.co/" target="_blank">Thalamus</a>, à nous faire part de son expertise.<br />
-<span id="more-19693"></span></p>
-<h2 style="color:#353466">1. Qu&rsquo;est-ce que le reciblage ?</h2>
-<p>Le reciblage publicitaire ou retargeting consiste à afficher les contenus que l&rsquo;utilisateur a consultés dans un site e-commerce. Voici comment cela fonctionne : l&rsquo;e-commerçant inclut une ligne de code sur son site qui permet d&rsquo;enregistrer un cookie de suivi dans le navigateur de l&rsquo;utilisateur. Grâce à ce cookie, les <a href="http://www.thalamus.co/display/retargeting" target="_blank">entreprises de reciblage</a> peuvent visualiser le parcours de la personne sur le Web et afficher des publicités en conséquence.</p>
-<p>C&rsquo;est un principe très similaire à celui qu&rsquo;emploient les scientifiques pour observer les animaux à distance à l&rsquo;aide de capteurs : dans ce cas précis, le capteur est enregistré dans le navigateur de l&rsquo;utilisateur, ce qui permet ensuite de lui proposer des publicités en fonction de ses habitudes de navigation. </p>
-<p>La stratégie la plus efficace consiste à afficher des publicités contenant un produit de votre boutique que l&rsquo;utilisateur a consulté (chaussures, pantalon, t-shirt, accessoire, etc.) assorti d&rsquo;une réduction symbolique, ce qui l&rsquo;incitera à revenir sur votre site pour effectuer l&rsquo;achat.  </p>
-<h2 style="color:#353466">2. Quels types d&rsquo;entreprises utilisent le reciblage ? Pourquoi ?</h2>
-<p>Les entreprises utilisant le reciblage appartiennent à une multitude de domaines différents : e-commerce, applis mobiles, sites B2B, marketing, etc.</p>
-<p>Le reciblage est un outil de communication extrêmement efficace pour communiquer avec des utilisateurs ayant déjà consulté votre site et améliorer leur expérience. </p>
-<p>Ils bénéficient également d&rsquo;une navigation Web plus pertinente, car les publicités qui leur sont proposées contiennent des articles qu&rsquo;ils ont déjà consultés ainsi que des promotions/concours. Sans cette technologie, les e-commerçants doivent deviner eux-mêmes quels produits de leur boutique plaisent le plus aux utilisateurs. </p>
-<p>À ses débuts, le reciblage était parfois perçu comme invasif par les utilisateurs, mais il fait aujourd&rsquo;hui partie de notre quotidien, car de nombreuses entreprises l&rsquo;utilisent depuis des années.</p>
-<h2 style="color:#353466">3. Quel est le prix d&rsquo;une campagne de reciblage ?</h2>
-<p>Les e-commerçants peuvent choisir des entreprises comme <a href="http://www.thalamus.co/ad_partners/adroll" target="_blank">AdRoll</a> et <a href="http://www.thalamus.co/ad_partners/retargeter" target="_blank">Retargeter</a> pour des tarifs avoisinant 100 dollars par semaine (voire moins). D&rsquo;autres sites comme <a href="http://www.thalamus.co/ad_partners/tellapart" target="_blank">TellApart</a>, <a href="http://www.thalamus.co/ad_partners/criteo" target="_blank">Criteo</a> et <a href="http://www.thalamus.co/ad_partners/simpli-fi" target="_blank">Simpli.fi</a> proposent des fonctionnalités avancées comme l&rsquo;optimisation créative dynamique (qui repose sur des algorithmes proposant automatiquement les articles les plus pertinents) ou les fils de catalogues produit (les produits proposés sont des articles similaires à ceux consultés par l&rsquo;utilisateur sur la boutique en ligne).</p>
-<h2 style="color:#353466">4. Comment lancer une campagne de reciblage pour ma boutique ?</h2>
-<p>Pour les e-commerçants, il est utile de mettre en œuvre des campagnes de reciblage toute l&rsquo;année. De nombreuses entreprises e-commerce ont ainsi augmenté leur taux de conversion en offrant de petites réductions sur les articles figurant dans les paniers abandonnés par les utilisateurs.</p>
-<p>Après avoir appris comment maximiser les conversions grâce au reciblage publicitaire, vous pouvez passer à des approches plus complexes comme l&rsquo;optimisation créative dynamique et les fils de catalogues produit (mentionnées plus haut), ou établir des partenariats avec des <a href="http://www.thalamus.co/display/ad-network" target="_blank">réseaux publicitaires</a> pour attirer davantage d&rsquo;utilisateurs.</p>
-<hr align="left" width="20%">
-<p>Lancez-vous dès aujourd&rsquo;hui en consultant les évaluations d&rsquo;entreprises comme AdRoll et Retargeter sur le site de <a href="http://www.thalamus.co/" target="_blank">Thalamus</a>. Ensuite, vous pourrez vous attaquer à votre première campagne de reciblage ! Vous avez déjà mis en place votre campagne ? Faites-nous part de vos astuces et de vos conseils dans les commentaires. </p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/e-commercants-introduction-au-reciblage-retargeting/">E-commerçants : introduction au reciblage ou retargeting</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/e-commercants-introduction-au-reciblage-retargeting/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

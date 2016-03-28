@@ -45,9 +45,10 @@
       line-height: 1.3em;
       padding: 0.5em 0;
       color: white; }
-    #homepage-slider .homeslider-description button {
-      font-size: 1.2em;
-      text-transform: uppercase; }
+    #homepage-slider .homeslider-description a {
+      font-size: 1em;
+      text-transform: uppercase;
+      display:inline-block;}
     @media (max-width: 1200px) {
       #homepage-slider .homeslider-description {
         padding: 20px;
@@ -64,7 +65,7 @@
         font-size: 0.5em; }
         #homepage-slider .homeslider-description p {
           font-size: 1.7em; } }
-  #homepage-slider .bx-wrapper a {
+  #homepage-slider a {
     display: block; }
   #homepage-slider .bx-wrapper img {
     height: auto; }

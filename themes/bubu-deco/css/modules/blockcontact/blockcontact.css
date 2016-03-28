@@ -17,8 +17,7 @@
       display: none; } }
 
 #contact-link {
-  float: right;
-  border-left: 1px solid #515151; }
+  float: left;}
   @media (max-width: 479px) {
     #contact-link {
       text-align: center; } }
@@ -26,7 +25,7 @@
     display: block;
     color: #fff;
     font-weight: bold;
-    padding: 8px 10px 11px 10px;
+    padding: 18px 10px 18px 10px;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     line-height: 18px; }
